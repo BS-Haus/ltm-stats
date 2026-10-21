@@ -1,0 +1,8 @@
+{
+  "_readme": "Figures for the stats tiles on the home page. When a job completes: projects_completed +1, projects_ongoing -1, save. Years in business is worked out from 'founded' automatically. Leave a figure as null to hide its tile.",
+  "founded": 1999,
+  "apprentices_trained": 26,
+  "projects_ongoing": null,
+  "projects_completed": 1000,
+  "projects_completed_show_plus": true
+}
